@@ -1,0 +1,7 @@
+Installation instructions:
+Download and extract Extension folder
+Navigate Chrome to: chrome://extensions
+Enable developer mode in the top right corner of the panel
+Choose Load unpacked extension, and choose extracted Extension folder
+
+The extension can be operated by clicking its button on the Chrome toolbar. Pressing the button will change the URL to one without query strings on the end. This process does not refresh the page or locally change the data on the page. Before sharing a link with a friend, it can be worth double checking that the new URL still points to the expected page, as some websites require query strings to properly render.
